@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fmorbidmutt&label=freaks&icon=bug-fill&color=%236ea8fe&message=&style=flat&tz=US%2FCentral">
+<a href="https://hits.sh/github.com/morbidmutt/"><img alt="Hits" src="https://hits.sh/github.com/morbidmutt.svg?label=freaks&color=007ec6&labelColor=000000"/></a>
 </p>
