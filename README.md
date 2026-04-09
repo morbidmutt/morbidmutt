@@ -13,3 +13,7 @@
   <img width="20" height="20" src="https://i.postimg.cc/MTn9mShZ/9685169b.gif">
   <a href="https://toyhou.se/maggoteatz">toyhouse</a>
 </p>
+
+<p align="center">
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fmorbidmutt&label=freaks&icon=bug-fill&color=%236ea8fe&message=&style=flat&tz=US%2FCentral">
+</p>
